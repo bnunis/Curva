@@ -1,7 +1,6 @@
 pandas
 numpy
-plotly.express
-plotly.graph_objects
+plotly
 PIL
 sklearn.linear_model
 sklearn.preprocessing
