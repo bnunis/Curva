@@ -1,0 +1,8 @@
+pandas
+numpy
+plotly.express
+plotly.graph_objects
+PIL
+sklearn.linear_model
+sklearn.preprocessing
+datetime
