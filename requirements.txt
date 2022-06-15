@@ -1,7 +1,7 @@
 pandas
 numpy
 plotly
-PIL
-sklearn.linear_model
-sklearn.preprocessing
-datetime
+Image
+LinearRegression
+PolynomialFeatures
+date
