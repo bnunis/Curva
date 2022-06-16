@@ -1,5 +1,4 @@
 pandas
 numpy
 plotly
-Image
-date
+
