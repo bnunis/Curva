@@ -3,7 +3,7 @@
 
 # ##  Bibliotecas:
 
-# In[7]:
+# In[1]:
 
 
 import pandas as pd 
@@ -19,7 +19,7 @@ from datetime import date
 
 # ##  Abrindo CSV
 
-# In[25]:
+# In[2]:
 
 
 #Abrindo a tabela em csv 
@@ -27,7 +27,7 @@ tabela = pd.read_csv(r'C:\Users\breno\Desktop\TESTE_SRICPT\SCRIPT_CURVAS_FENOLOG
 tabela = tabela.rename_axis('ID').reset_index()
 
 
-# In[26]:
+# In[3]:
 
 
 tabela.head()
@@ -35,7 +35,7 @@ tabela.head()
 
 # ## Gráfico Curva Fenológica 
 
-# In[27]:
+# In[4]:
 
 
 #Barra Lateral
