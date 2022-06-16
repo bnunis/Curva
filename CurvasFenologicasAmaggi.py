@@ -40,7 +40,7 @@ tabela.head()
 
 #Barra Lateral
 barra_lateral = st.sidebar.empty()
-image = Image.open(r'C:\Users\breno\Desktop\TESTE_SRICPT\SCRIPT_CURVAS_FENOLOGICAS\Logo-Escuro.png')
+image = Image.open('Logo-Escuro.png')
 st.sidebar.image(image)
 st.sidebar.markdown('### Avaliação Fenológica do Algodão por meio de Índices de Vegetação')
 
